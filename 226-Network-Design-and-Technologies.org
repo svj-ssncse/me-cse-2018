@@ -6,7 +6,7 @@
 
 {{{credits}}}
 | L | T | P | C |
-| 3 | 0 | 0 | 3 |
+| 2 | 0 | 2 | 3 |
 
 ** Course Objectives
 - To understand the principles required for network design. 
@@ -20,36 +20,46 @@
 OSI Model -- Review of RIP and OSPF Protocols -- LAN cabling
 topologies -- Ethernet Switches, Routers, Firewalls and L3 switches --
 Remote Access Technologies and Devices -- Core networks and
-distribution networks -- Simulation of routing protocols in wired
-networks
+distribution networks.
+1. Establishing LAN, VLAN
+2. Simulation of Wired networks
+3. Simulation of routing protocols
 
 {{{unit}}}
+
 |Unit II|Wireless Networks|10| 
 IEEE802.16 and WiMAX – Security – Advanced 802.16 Functionalities –
 Mobile WiMAX - 802.16e – Network Infrastructure – WLAN – Configuration
 – Management Operation – Security – IEEE 802.11e and WMM – QoS –
 Comparison of WLAN and UMTS – Bluetooth – Protocol Stack – Security –
-Profiles- Simulation of wireless networks.
+Profiles
+
+1. Simulation of wireless networks
 
 {{{unit}}}
+
 |Unit III|Cellular Networks|9| 
 GSM -– Mobility Management and call control -– GPRS -– Network
 Elements -– Radio Resource Management -– Mobility Management and
 Session Management -– Small Screen Web Browsing over GPRS and EDGE -–
-MMS over GPRS -– UMTS -– Channel Structure on the Air Interface -–
-UTRAN –- Core and Radio Network Mobility Management –- UMTS Security
+MMS over GPRS 
+
+\begin{comment} UMTS portion removed to include lab portion \end{comment}
+1. Analyzing packets using wireshark tool
 
 {{{unit}}}
+
 |Unit IV|4G Networks |9| 
 LTE –- Network Architecture and Interfaces –- Mobility Management and
 Power Optimization –- LTE Security Architecture –- Interconnection
 with UMTS and GSM –- 4G Networks and Composite Radio Environment –-
 Protocol Boosters –- Hybrid 4G Wireless Networks Protocols –- Green
-Wireless Networks –- Physical Layer and Multiple Access – Channel
-Modelling for 4G –- Introduction to 5G -- Simulation of Access control
-list.
+Wireless Networks –- Introduction to 5G.
+
+1. Simulation of Access control list
 
 {{{unit}}}
+
 |Unit V|Software Defined Networks|8|
 Introduction – Centralized and Distributed Control and Data Planes –
 Open Flow – SDN Controllers – Network Function Virtualization.
