@@ -20,24 +20,20 @@
 OSI Model -- Review of RIP and OSPF Protocols -- LAN cabling
 topologies -- Ethernet switches, routers, firewalls and L3 switches --
 Remote access technologies and devices -- Core networks and
-distribution networks -- Simulation of routing protocols in wired
-networks.
+distribution networks.
 
 {{{unit}}}
 | Unit II | Wireless Networks | 6 |
 IEEE802.16 and WiMAX -- Security -- Advanced 802.16 functionalities --
-Mobile WiMAX - 802.16e -- Network infrastructure -- WLAN -- Configuration
--- Management operation -- Security -- IEEE 802.11e and WMM -- QoS --
-Comparison of WLAN and UMTS -- Bluetooth -- Protocol stack -- Security --
-Profiles- Simulation of wireless networks.
+Mobile WiMAX:802.16e -- Network infrastructure -- WLAN -- Configuration
+-- Management operation
 
 {{{unit}}}
 | Unit III | Cellular Networks | 6 |
 GSM -- Mobility management and call control -- GPRS -- Network
 elements -- Radio resource management -- Mobility management and
 session management -- Small screen web browsing over GPRS and EDGE --
-MMS over GPRS -- UMTS -- Channel structure on the air interface --
-UTRAN -- Core and radio network mobility management -- UMTS security
+MMS over GPRS.
 
 {{{unit}}}
 | Unit IV | 4G Networks | 6 |
@@ -46,8 +42,7 @@ power optimization -- LTE security architecture -- Interconnection
 with UMTS and GSM -- 4G networks and composite radio environment --
 Protocol boosters -- Hybrid 4G wireless networks protocols -- Green
 wireless networks -- Physical layer and Multiple access - Channel
-modelling for 4G -- Introduction to 5G -- Simulation of access control
-list.
+modelling for 4G -- Introduction to 5G.
 
 {{{unit}}}
 | Unit V | Software Defined Networks | 6 |
