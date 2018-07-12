@@ -20,8 +20,7 @@
 OSI Model -- Review of RIP and OSPF Protocols -- LAN cabling
 topologies -- Ethernet switches, routers, firewalls and L3 switches --
 Remote access technologies and devices -- Core networks and
-distribution networks -- Simulation of routing protocols in wired
-networks.
+distribution networks 
 
 {{{unit}}}
 | Unit II | Wireless Networks | 6 |
